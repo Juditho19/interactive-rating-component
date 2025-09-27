@@ -33,8 +33,6 @@ Users should be able to:
 <img width="1280" height="555" alt="Screenshot 2025-09-27 at 14-15-05 interactive-rating-component" src="https://github.com/user-attachments/assets/fb66f8d3-7ce3-4782-bb94-ceb3750fcd0d" />
 <img width="1280" height="555" alt="Screenshot 2025-09-27 at 14-14-48 interactive-rating-component" src="https://github.com/user-attachments/assets/28d3b525-b694-42a2-b097-95791a949c8e" />
 
-
-
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Juditho19/interactive-rating-component)
