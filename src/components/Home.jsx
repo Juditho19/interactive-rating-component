@@ -26,7 +26,7 @@ const Home = () => {
     
     <div className='bg-grey-gradient w-full max-w-sm  
     sm:max-w-sm mx-auto rounded-2xl p-4 sm:p-6 flex flex-col gap-4 sm:gap-5'>
-      <img src="../src/assets/images/icon-star.svg" alt="star-icon"
+      <img src="../src/assets/icon-star.svg" alt="star-icon"
       width={30} height={30}
       className='bg-darkGrey rounded-full p-2' />
       <h1 className='text-2xl font-bold'>How did we do?</h1>

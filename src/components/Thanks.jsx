@@ -11,7 +11,7 @@ const Thanks = () => {
     <div className='bg-grey-gradient w-full max-w-sm mx-auto 
     sm:max-w-sm rounded-2xl p-6 flex flex-col gap-5 
     items-center justify-center'>
-      <img src="../src/assets/images/illustration-thank-you.svg" alt="card-image-icon"
+      <img src="../src/assets/illustration-thank-you.svg" alt="card-image-icon"
       width={150} height={150} 
       className=''/>
       <p className='text-sm text-Orange bg-darkGrey px-3 
