@@ -24,8 +24,8 @@ const Home = () => {
 
   return (
     
-    <div className='bg-grey-gradient w-full max-w-sm mx-auto 
-    rounded-2xl p-6 flex flex-col gap-5'>
+    <div className='bg-grey-gradient w-full max-w-sm  
+    sm:max-w-sm mx-auto rounded-2xl p-4 sm:p-6 flex flex-col gap-4 sm:gap-5'>
       <img src="../src/assets/images/icon-star.svg" alt="star-icon"
       width={30} height={30}
       className='bg-darkGrey rounded-full p-2' />
@@ -35,7 +35,7 @@ const Home = () => {
       </p>
 
       {/* row of buttons */}
-      <div className='flex justify-between'>
+      <div className='flex justify-between flex-wrap gap-3 sm:gap-2'>
         <button
           className={`w-12 h-12 rounded-full cursor-pointer ${getButtonStyle(1)}`}
           onClick={() => setRating(1)}
